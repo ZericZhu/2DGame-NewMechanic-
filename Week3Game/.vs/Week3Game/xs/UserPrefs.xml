@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{19B42475-E101-2F62-42E3-A857D06F553C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/MainSceneMove.cs">
+    <Files>
+      <File FileName="Assets/Script/CameraFollow.cs" Line="4" Column="1" />
+      <File FileName="Assets/Script/GameManager.cs" />
+      <File FileName="Assets/Script/PlayerController.cs" Line="23" Column="37" />
+      <File FileName="Assets/Script/ColorMeter.cs" Line="22" Column="1" />
+      <File FileName="Assets/Script/Changable.cs" Line="39" Column="126" />
+      <File FileName="Assets/Conveyor.cs" Line="18" Column="37" />
+      <File FileName="Assets/Came.cs" Line="29" Column="1" />
+      <File FileName="Assets/OnChangeColor.cs" Line="27" Column="34" />
+      <File FileName="Assets/Script/Jumper.cs" Line="19" Column="14" />
+      <File FileName="Assets/Script/ColorCube.cs" Line="20" Column="92" />
+      <File FileName="Assets/Split.cs" Line="62" Column="68" />
+      <File FileName="Assets/Unittt.cs" Line="25" Column="72" />
+      <File FileName="Assets/Script/State.cs" Line="4" Column="1" />
+      <File FileName="Assets/Script/MainSceneMove.cs" Line="41" Column="81" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6629d14b-7b94-47d4-a019-f398977323aa" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
